@@ -17,5 +17,6 @@ function shouting(name) {
   return result;
 }
 function runDown(num) {
-  
+  let result = num.floor();
+  return result;
 }
