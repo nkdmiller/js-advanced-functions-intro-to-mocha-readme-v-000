@@ -12,5 +12,8 @@ function sayHeyFriend(name) {
 function favoriteIceCream(flavor) {
   return `I love ${flavor}`;
 }
-
+function shouting(name) {
+  let result = name.toUpperCase();
+  return result;
+}
 function 
