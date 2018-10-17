@@ -16,7 +16,7 @@ function shouting(name) {
   let result = name.toUpperCase();
   return result;
 }
-function runDown(num) {
+function roundDown(num) {
   let result = num.floor();
   return result;
 }
