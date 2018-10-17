@@ -17,6 +17,6 @@ function shouting(name) {
   return result;
 }
 function roundDown(num) {
-  let result = num.floor();
+  let result = Math.floor(num);
   return result;
 }
